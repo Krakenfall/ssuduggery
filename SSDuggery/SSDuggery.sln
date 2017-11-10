@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDuggery", "SSDuggery\SSDuggery.csproj", "{101A7D93-50A4-4ED4-8DC8-8A1809820EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDuggery.Tests", "SSDuggery.Tests\SSDuggery.Tests.csproj", "{C374FF07-5841-4F42-B9DD-AF55DACCD818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101A7D93-50A4-4ED4-8DC8-8A1809820EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A7D93-50A4-4ED4-8DC8-8A1809820EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A7D93-50A4-4ED4-8DC8-8A1809820EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A7D93-50A4-4ED4-8DC8-8A1809820EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C374FF07-5841-4F42-B9DD-AF55DACCD818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C374FF07-5841-4F42-B9DD-AF55DACCD818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C374FF07-5841-4F42-B9DD-AF55DACCD818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C374FF07-5841-4F42-B9DD-AF55DACCD818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44626EF9-99EC-432F-8DFB-F5E4DCB00445}
+	EndGlobalSection
+EndGlobal
